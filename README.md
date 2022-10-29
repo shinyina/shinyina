@@ -3,4 +3,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyina)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudmoonocus&card_width=500&theme=solarized-light)](https://github.com/shinyina)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyina&card_width=500&theme=solarized-light)](https://github.com/shinyina)
